@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**RayMoreira/RayMoreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Sou Rayele Moreira, uma entusiasta da análise de dados e apaixonada por transformar dados em insights significativos 💻. 
 
 Here are some ideas to get you started:
 
