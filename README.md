@@ -23,5 +23,6 @@ Olá! Sou Rayele Moreira, uma entusiasta da análise de dados e apaixonada por t
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rayelemoreira/?hl=en)
 
 
+
 Vamos transformar dados em conhecimento!
 
