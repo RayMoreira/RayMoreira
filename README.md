@@ -19,7 +19,7 @@ Olá! Sou Rayele Moreira, uma entusiasta da análise de dados e apaixonada por t
 ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
 
 ## Redes Sociais
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][www.linkedin.com/in/rayele-moreira]
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rayele-moreira)
 
 
 Vamos transformar dados em conhecimento!
