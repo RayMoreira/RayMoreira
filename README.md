@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-I'm Rayele Moreira — a healthcare data professional with a PhD in Biotechnology and postdoctoral research at Georgia Tech. I work at the intersection of healthcare, machine learning, and statistical analysis, with a focus on building solutions that make clinical and operational decisions more defensible.
+I'm Rayele Moreira, a data professional with a PhD in Biotechnology and postdoctoral research at Georgia Tech. I work at the intersection of machine learning, statistical analysis, and real-world problem solving, with a focus on building end-to-end analytic solutions that turn complex data into defensible decisions.
 
-My background combines clinical training (physical therapy) with applied data science — over 1,000 hours of formal training in quantitative analysis, statistics, and Python, plus independent projects on US healthcare data including claims analytics, hospital readmission prediction, and inter-hospital bed regulation.
+My background combines applied research training with hands-on data science, over 1,000 hours of formal training in quantitative analysis, statistics, and Python, plus independent projects across healthcare data, classification under class imbalance, graph-based optimization, and model interpretability.
 
-Most of the work pinned below is end-to-end: from data exploration through modeling to interpretable explanations and business-impact framing. I publish openly so others can learn, replicate, or critique the approach.
+Most of the work pinned below is end-to-end: from data exploration through modeling to interpretable results and practical framing of the outputs. 
 
-🔬 **Current focus:** healthcare data analytics, machine learning for healthcare, claims and utilization data, model interpretability (SHAP), and translating clinical questions into rigorous analytic frameworks.
+🔬 **Current focus:** machine learning, statistical analysis, model interpretability (SHAP), and translating domain questions into rigorous analytic frameworks.
 
-📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/rayele-moreira) · [Email](mailto:moreirarayele@gmail.com)
 
----
 
 ## 💻 Tech Stack
 
